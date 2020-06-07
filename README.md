@@ -12,8 +12,8 @@ limitation: It's a sample app.
    <td>ELIGIBILITY SCREEN</td>
  </tr>
  <tr>
-   <td><img src="screenshots/screenshot_1.jpg" width=270 height=480></td>
-   <td><img src="screenshots/screenshot_2.jpg" width=270 height=480></td>
+   <td><img src="screenshots/screenshot_1.jpeg" width=270 height=480></td>
+   <td><img src="screenshots/screenshot_2.jpeg" width=270 height=480></td>
  </tr>
 </table>
 
@@ -23,7 +23,7 @@ limitation: It's a sample app.
    <td>ELIGIBILITY SCREEN</td>
  </tr>
  <tr>
-   <td><img src="screenshots/screenshot_3.jpg" width=270 height=480></td>
-   <td><img src="screenshots/screenshot_4.jpg" width=270 height=480></td>
+   <td><img src="screenshots/screenshot_3.jpeg" width=270 height=480></td>
+   <td><img src="screenshots/screenshot_4.jpeg" width=270 height=480></td>
  </tr>
 </table>
